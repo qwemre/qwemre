@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I am looking for a job on full stack development.
-- 🌱 I’m currently developing myself on JavaScript and C#.
+- 🌱 I’m currently developing myself on .Net.
 - 📫 How to reach me: emrekaraomeroglu@gmail.com
 - 😄 Pronouns: He/Him
 
